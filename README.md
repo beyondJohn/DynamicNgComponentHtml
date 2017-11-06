@@ -1,3 +1,3 @@
 # DynamicNgComponentHtml
 
-## Angular 4 NgBootstrap Create Dynamic Component Template 
+## Angular 4 Create Dynamic Component Template 
