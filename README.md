@@ -1,4 +1,4 @@
-# DynamicNgComponentHtml
+# Dynamic Ng Component Template
 
 ## Angular 4 Create Dynamic Component Template 
 
